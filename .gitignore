@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# Test/coverage cache
+.pytest_cache/
+.coverage
+
+# Environment variables
+.env
+
+# Docker files
+*.log
