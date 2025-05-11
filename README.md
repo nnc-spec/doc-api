@@ -19,3 +19,11 @@ It is built using Python, FastAPI, SQLAlchemy, and SQLite. Unit tests are writte
 git clone <your-repo-url>
 cd doc-api
 ```
+
+# 📄 Doc API
+
+[![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-brightgreen?logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)](https://www.docker.com/)
+[![Tests](https://img.shields.io/badge/Pytest-passing-green?logo=pytest)](https://docs.pytest.org/)
+[![Docs](https://img.shields.io/badge/API-Swagger-ff69b4?logo=swagger)](http://localhost:8000/docs)
