@@ -16,7 +16,7 @@ It is built using Python, FastAPI, SQLAlchemy, and SQLite. Unit tests are writte
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git https://github.com/nnc-spec/doc-api.git
 cd doc-api
 ```
 
